@@ -1,0 +1,8 @@
+.navbar .navbar-nav .nav-item .nav-link-action {
+    transition: 0.2s;
+}
+
+.navbar .navbar-nav .nav-item .nav-link-action:hover {
+    color: skyblue;
+    scale: calc(1.1);
+}
